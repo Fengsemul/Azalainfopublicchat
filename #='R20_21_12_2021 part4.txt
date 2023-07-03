@@ -453,7 +453,7 @@ Death25: ^
 Death25: ^&
 Death25: ^
 Death25: ^
-Enter chat message here.
+
 
 57,377
 Traffickick
@@ -867,7 +867,7 @@ Generic: speaking of popular youtuber u got a channel? ill sub if u want
 Downsyncron1: for real I got noone
 Downsyncron1: in 2016 it was even harsh
 Generic: ight
-Enter chat message here.
+
 Downsyncron1: And I like to watch people who are smarter or dumber than I
 Death25: ...
 Downsyncron1: yes

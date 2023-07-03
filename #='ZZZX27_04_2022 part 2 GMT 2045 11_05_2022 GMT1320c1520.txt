@@ -7515,14 +7515,14 @@ Click the "Commands" button for the list of commands.
 02:46:45
 02:46:4502:46:45
 
-Enter chat message here.
+
 02:46:45
 02:46:45
 02:46:45
 
 02:46:45Game List
 
-Enter chat message here.
+
 02:46:45
 02:46:4502:46:45
 
@@ -7537,7 +7537,7 @@ Enter chat message here.
 02:46:45
 05:13:17Monday, May 2, 2022Sun: ↑ 06:25 ↓ 20:07 (13h 42m)05:13:19Monday, May 2, 2022Sun: ↑ 06:25 ↓ 20:07 (13h 42m)
 05:13:19Monday, May 2, 2022Sun: ↑ 06:25 ↓ 20:07 (13h 42m)05:13:19Monday, May 2, 2022Sun: ↑ 06:25 ↓ 20:07 (13h 42m)
-Enter chat message here.
+
 05:22:19Monday, May 2, 2022Sun: ↑ 06:25 ↓ 20:07 (13h 42m)
 05:26:45Monday, May 2, 2022Sun: ↑ 06:25 ↓ 20:07 (13h 42m)
 05:31:11Monday, May 2, 2022Sun: ↑ 06:25 ↓ 20:07 (13h 42m)
@@ -7636,7 +7636,7 @@ Limabean: heyo peeps
 
 07:32:14Monday, May 2, 2022Sun: ↑ 06:25 ↓ 20:07 (13h 42m)
 07:36:43Monday, May 2, 2022Sun: ↑ 06:25 ↓ 20:07 (13h 42m)
-Enter chat message here.
+
 07:41:14Monday, May 2, 2022Sun: ↑ 06:25 ↓ 20:07 (13h 42m)
 Soup50: yawawe
 Supportchair: hi

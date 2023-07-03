@@ -509,7 +509,7 @@ Neko_femboy: ok
 Femboyreaper: kill me now
 Jadduck: fucking?
 Femboyreaper: do it
-Enter chat message here.
+
 
 58,552
 Dailyo2
@@ -964,7 +964,7 @@ Callmecali: Eew
 Tallguy: ikr
 Callmecali: Ur lame
 Cupoftea: hola
-Enter chat message here.
+
 
 58,552
 Dailyo2
@@ -1379,7 +1379,7 @@ Generic: the name
 Tallguy: im one tall as 7 year old
 Generic: the way he talks
 Generic: how tall are u
-Enter chat message here.
+
 Soup50: y'all ever get those grey ladybug lookin things in ur bathroom?
 Generic: no, jus regular ladybugs
 Soup50: they look like ladybugs but they aren't

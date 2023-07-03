@@ -451,7 +451,7 @@ Epsillon_11_regiment_officer: Do I even wanna know
 Furryanimeboy: SAVE ME
 Nekogirl: pup, heel
 Epsillon_11_regiment_officer: ...?
-Enter chat message here.
+
 
 57,189
 scortex_live
@@ -890,7 +890,7 @@ Carl_wheezer: Dick
 Landon010: oh
 British_grenadier: carl is here
 Honeydew: oh lordy
-Enter chat message here.
+
 
 57,189
 scortex_live
@@ -1328,7 +1328,7 @@ Familiarpenalty: out of context "im just beating it right now"
 Exagoni: lol
 Familiarpenalty: hes dominating you, he is dominating you chip, chip, he's dominating you
 Exagoni: "would you throw money at busker"
-Enter chat message here.
+
 
 57,205
 Juniorspecial
@@ -1810,7 +1810,7 @@ Corporal_sterling: all he needs is to dance instead of singing and playing guita
 Exagoni: yep
 Corporal_sterling: anyways time to watch food videos, whisper if you need me
 Exagoni: k
-Enter chat message here.
+
 Koda: i probably could fuck a horse
 Koda: it would go in thru his ass
 Koda: come out thru his mouth

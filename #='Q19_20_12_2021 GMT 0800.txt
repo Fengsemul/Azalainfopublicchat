@@ -1,4 +1,4 @@
-SgtSalamanderG
+
 Generic: but on this one
 Generic: i must
 Koda: big ouch.
@@ -466,4 +466,4 @@ Generic: anything happening here?
 Generic: no?
 Generic: ight
 Generic: gn
-Enter chat message here.
+

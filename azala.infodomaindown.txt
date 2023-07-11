@@ -1,0 +1,11 @@
+uptimebot.com
+(HTTP 502 - Bad Gateway) DOWN: 2021-02-17 09:48:35 UTC +0
+4 min, 51 sec (HTTP 200 - OK) UP:2021-02-17 09:53:25 UTC +0
+(Connection Timeout) DOWN: 2021-08-02 20:08:14 UTC +0
+3 min, 58 sec (HTTP 200 - OK) UP: 2021-08-02 20:12:12 UTC +0
+Root cause: (HTTP 403 - Forbidden) DOWN: 2022-06-24 23:56:43
+4 min, 50 sec UP: 2022-06-25 00:01:33
+(Connection Timeout) DOWN: 2023-03-12 13:13:54
+3 min, 2 sec UP: 2023-03-12 13:16:56
+(Connection Timeout) DOWN: 2023-07-02 05:08:14
+2023-07-10 10:43:10 downtime lasted 15 hrs, 2 mins and continues.

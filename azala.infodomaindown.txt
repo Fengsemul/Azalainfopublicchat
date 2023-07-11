@@ -8,4 +8,6 @@ Root cause: (HTTP 403 - Forbidden) DOWN: 2022-06-24 23:56:43
 (Connection Timeout) DOWN: 2023-03-12 13:13:54
 3 min, 2 sec UP: 2023-03-12 13:16:56
 (Connection Timeout) DOWN: 2023-07-02 05:08:14
-2023-07-10 10:43:10 downtime lasted 15 hrs, 2 mins and continues.
+DOWN:incident started at 2023-07-10 10:43:40
+25 hour, 47 min resolved: UP: 2023-07-11 12:31:11
+DOWN: 2023-07-11 12:40:11

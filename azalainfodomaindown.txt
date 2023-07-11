@@ -20,6 +20,3 @@ Incident: 2023-07-10 10:43:40
 Incident: 2023-07-11 12:38:32
 1 hour, 55 min Resolved: UP: 2023-07-11 14:33:38
 Connection Timeout: DOWN: 2023-07-11 14:41:20
-
-25 hour, 47 min resolved: UP: 2023-07-11 12:31:11
-DOWN: 2023-07-11 12:40:11

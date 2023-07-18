@@ -20,3 +20,8 @@ Incident: 2023-07-10 10:43:40
 Incident: 2023-07-11 12:38:32
 1 hour, 55 min Resolved: UP: 2023-07-11 14:33:38
 Connection Timeout: DOWN: 2023-07-11 14:41:20
+DOWN: Incident started: 2023-07-12 15:43:12
+UP: Root cause: Connection Timeout Incident started: 2023-07-12 15:43:04 Resolved at: 2023-07-13
+DOWN: Root cause: Connection Timeout Incident started: 2023-07-13 03:17:18 Resolved at: 2023-07-13 08:05:52
+DOWN: Root cause: HTTP 502 - Bad Gateway Incident started: 2023-07-13 08:10:55 Resolved at: 2023-07-13 08:15:47
+UP: Incident started: 2023-07-10 07:19:10 Resolved at: 2023-07-13 03:09:53 Duration: 67 hr 50 min
